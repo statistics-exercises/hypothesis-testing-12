@@ -2,7 +2,7 @@
 
 This week we are going to take the ideas of hypothesis testing that were introduced in last weeks python tasks further.  Lets, therefore, start by revising what those exercises last week taught us about hypothesis testing.  If you remember we introduced the following flowchart to describe the workflow that is used to perform a hypothesis test:
 
-![](hypo-testing.001.jepg)
+![](hypo-testing.001.jpeg)
 
 __To complete this exercise I would like you to use this workflow to test the following__:
 
